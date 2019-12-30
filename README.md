@@ -1,4 +1,4 @@
-# quizzler_app
+# Skeleton Code for : quizzler_app
 
 A new Flutter application.
 
